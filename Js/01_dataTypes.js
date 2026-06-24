@@ -25,3 +25,10 @@ console.log(typeof undefined); //undefined
 console.log(typeof null); //object
 
 
+// primitive data types (value types) - number, string, boolean, null, undefined, symbol, bigint
+//primitives are immutable, they are stored in stack memory, and they are compared by value
+
+
+// non-primitive data types (reference types) - object, array, function
+// non-primitives are mutable, they are stored in heap memory, and they are compared by reference
+
