@@ -32,3 +32,6 @@ console.log(typeof null); //object
 // non-primitive data types (reference types) - object, array, function
 // non-primitives are mutable, they are stored in heap memory, and they are compared by reference
 
+//stack (primitives) - 
+
+//heap (non-primitives) - real me value change hoti h, reference copy hota h, dono same value ko point krte h
